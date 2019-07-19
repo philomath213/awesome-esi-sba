@@ -45,7 +45,7 @@
 
 - [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
 
-- [youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
+- [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
 
 
 ## Contribute
