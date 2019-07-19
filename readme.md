@@ -38,8 +38,7 @@
 
 ## Others
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [AlphaBit Coding Challenge](https://github.com/philomath213/alphabit-coding-challenge) - AlphaBit Club Programming Contest
 
 
 ## Contribute
