@@ -6,41 +6,26 @@
 ## Contents
 
 - [Multidisciplinary Projects](#multidisciplinary-projects)
-    - [Android Applications](#android-applications)
-    - [Desktop Applications](#desktop-applications)
-    - [Machine Learning](#machine-learning)
-    - [Web Applications](#web-applications)
-    - [Others Categories](#others-categories)
+- [Mini Projects](#mini-projects)
 - [Presentations](#Presentations)
 - [Others](#others)
 
 
 ## Multidisciplinary Projects
 
-### Android Applications
-
-- [List item](#)
-
-### Desktop Applications
-
-- [List item](#)
-
-### Machine Learning
-
-- [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - Spot malwares using Machine Learning techniques
-
-### Web Applications
+- [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students
 
 - [OpenClass](https://github.com/youben11/open-class) - Web App that promote information sharing through organized workshops
 
-### Others Categories
-
-- [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students
+- [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - Spot malwares using Machine Learning techniques
 
 
+## Mini Projects
+    
 ## Presentations
 
 - [Docker From A to B](https://philomath213.github.io/talk/docker-from-a-to-b/) - Docker Key Concepts
+
 - [SQL INJECTION](https://philomath213.github.io/talk/sql-injection/) - Introduction to SQL Injection
 
 
