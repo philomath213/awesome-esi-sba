@@ -11,7 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - The project or the awesome thing must be made by a ESI-SBA student
 - It's Open Source
 - Keep the list in alphabetic order
-- respects the community [code of conduct](./CODE-OF-CONDUCT.md)
+- respects the community [code of conduct](./code-of-conduct.md)
 
 
 ## Updating your PR
