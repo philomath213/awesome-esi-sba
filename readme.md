@@ -43,6 +43,8 @@
 
 - [Parself](https://github.com/youben11/parself) - A parser for ELF files.
 
+- [Pneumonia Detector](https://github.com/LatrecheYasser/pneumonia-detector) - Detecting Pneumonia on chest x-ray images.
+
 - [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
 
 - [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
