@@ -26,7 +26,7 @@
     
 ## Presentations
 
-- [Arduino](https://philomath213.github.io/talk/docker-from-a-to-b/) - Arduino Basics and embedded system introduction
+- [Arduino](https://docs.google.com/presentation/d/1DGIUgnXk5muNqSxVkXtXMeHE8Iws7OOhBohQDGgBn1A/edit?usp=sharing) - Arduino Basics and embedded system introduction
 
 - [Docker From A to B](https://philomath213.github.io/talk/docker-from-a-to-b/) - Docker Key Concepts
 
