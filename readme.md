@@ -10,6 +10,7 @@
     - [Desktop Applications](#desktop-applications)
     - [Machine Learning](#machine-learning)
     - [Web Applications](#web-applications)
+    - [Others Categories](#others-categories)
 - [Presentations](#Presentations)
 - [Others](#others)
 
@@ -32,6 +33,11 @@
 - [List item](http://example.com)
 
 ### Web Applications
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+### Others Categories
 
 - [List item](http://example.com)
 - [List item](http://example.com)
