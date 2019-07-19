@@ -43,6 +43,7 @@
 ## Presentations
 
 - [Docker From A to B](https://philomath213.github.io/talk/docker-from-a-to-b/) - Docker Key Concepts
+- [SQL INJECTION](https://philomath213.github.io/talk/sql-injection/) - Introduction to SQL Injection
 
 
 ## Others
