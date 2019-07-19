@@ -7,6 +7,7 @@
 
 - [Multidisciplinary Projects](#multidisciplinary-projects)
 - [Mini Projects](#mini-projects)
+- [Extracurricular Projects](#extracurricular-projects)
 - [Presentations](#Presentations)
 - [Others](#others)
 
@@ -25,9 +26,25 @@
 ## Mini Projects
 
 - [Messaging](https://github.com/youben11/messaging) - Messaging is a client/server app written in Python2.7 that allows multiple users to communicate over a shared channel.
+
 - [Rapid Lobby](https://github.com/philomath213/rapid_lobby) - Rapid Lobby is a client/server app written in Python3 that allows multiple users to communicate over a shared channel.
 
 - [Scheduling Algorithm Simulator](https://github.com/youben11/sched-algo) - Simulation of some scheduling algorithms used in Operating Systems.
+
+
+## Extracurricular Projects
+
+- [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
+
+- [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
+
+- [Parself](https://github.com/youben11/parself) - A parser for ELF files.
+
+- [Pneumonia Detector](https://github.com/LatrecheYasser/pneumonia-detector) - Detecting Pneumonia on chest x-ray images.
+
+- [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
+
+- [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
 
 ## Presentations
 
@@ -43,18 +60,6 @@
 ## Others
 
 - [AlphaBit Coding Challenge](https://github.com/philomath213/alphabit-coding-challenge) - AlphaBit Club Programming Contest
-
-- [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
-
-- [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
-
-- [Parself](https://github.com/youben11/parself) - A parser for ELF files.
-
-- [Pneumonia Detector](https://github.com/LatrecheYasser/pneumonia-detector) - Detecting Pneumonia on chest x-ray images.
-
-- [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
-
-- [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
 
 
 ## Contribute
