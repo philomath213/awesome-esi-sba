@@ -33,8 +33,7 @@
 
 ### Web Applications
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [OpenClass](https://github.com/youben11/open-class) - Web App that promote information sharing through organized workshops
 
 ### Others Categories
 
