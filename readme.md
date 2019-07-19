@@ -19,13 +19,11 @@
 
 ### Android Applications
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [List item](#)
 
 ### Desktop Applications
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [List item](#)
 
 ### Machine Learning
 
