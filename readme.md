@@ -1,6 +1,6 @@
-# ESI-SBA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ESI-SBA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things and projects built by ESI-SBA students
+> A curated list of awesome things and projects made by ESI-SBA students
 
 
 ## Contents
