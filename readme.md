@@ -25,9 +25,10 @@
 ## Mini Projects
 
 - [Messaging](https://github.com/youben11/messaging) - Messaging is a client/server app written in Python2.7 that allows multiple users to communicate over a shared channel.
+- [Rapid Lobby](https://github.com/philomath213/rapid_lobby) - Rapid Lobby is a client/server app written in Python3 that allows multiple users to communicate over a shared channel.
 
 - [Scheduling Algorithm Simulator](https://github.com/youben11/sched-algo) - Simulation of some scheduling algorithms used in Operating Systems.
-    
+
 ## Presentations
 
 - [Arduino](https://docs.google.com/presentation/d/1DGIUgnXk5muNqSxVkXtXMeHE8Iws7OOhBohQDGgBn1A/edit?usp=sharing) - Arduino Basics and embedded system introduction
