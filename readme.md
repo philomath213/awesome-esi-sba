@@ -5,22 +5,28 @@
 
 ## Contents
 
-- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
-- [Project](#projects)
-    - [Frameworks and Libraries](#frameworks-and-libraries)
-    - [Web Applications](#web-applications)
+- [Multidisciplinary Projects](#multidisciplinary-projects)
+    - [Android Applications](#android-applications)
     - [Desktop Applications](#desktop-applications)
+    - [Machine Learning](#machine-learning)
+    - [Web Applications](#web-applications)
+- [Presentations](#Presentations)
 - [Others](#others)
 
-## Tutorials and Learning Resources
+
+## Multidisciplinary Projects
+
+### Android Applications
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+### Desktop Applications
 
-## Projects
+- [List item](http://example.com)
+- [List item](http://example.com)
 
-### Frameworks and Libraries
+### Machine Learning
 
 - [List item](http://example.com)
 - [List item](http://example.com)
@@ -30,7 +36,8 @@
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-### Desktop Applications
+
+## Presentations
 
 - [List item](http://example.com)
 - [List item](http://example.com)
