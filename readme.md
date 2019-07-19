@@ -13,6 +13,8 @@
 
 ## Multidisciplinary Projects
 
+- [7anooTech](https://github.com/th3happybit/7anooTech) - Partial remote selling platform adapted to the Algerian market constraints
+
 - [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students
 
 - [OpenClass](https://github.com/youben11/open-class) - Web App that promote information sharing through organized workshops
@@ -28,7 +30,11 @@
     
 ## Presentations
 
+- [Arduino](https://docs.google.com/presentation/d/1DGIUgnXk5muNqSxVkXtXMeHE8Iws7OOhBohQDGgBn1A/edit?usp=sharing) - Arduino Basics and embedded system introduction
+
 - [Docker From A to B](https://philomath213.github.io/talk/docker-from-a-to-b/) - Docker Key Concepts
+
+- [GIT](https://docs.google.com/presentation/d/13d1OGVyJGoMLX1JaI7EtkdkZ4NvJkJZhiP4Gp1B3ueQ/edit?usp=sharing) - GIT Basics
 
 - [SQL INJECTION](https://philomath213.github.io/talk/sql-injection/) - Introduction to SQL Injection
 
