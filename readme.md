@@ -36,6 +36,8 @@
 
 - [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
 
+- [Pchaty](https://github.com/th3happybit/Pchaty) - A simple chat app using python implementing Event-driven architecture.
+
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
 
 - [Parself](https://github.com/youben11/parself) - A parser for ELF files.
@@ -53,6 +55,8 @@
 - [Docker From A to B](https://philomath213.github.io/talk/docker-from-a-to-b/) - Docker Key Concepts
 
 - [GIT](https://docs.google.com/presentation/d/13d1OGVyJGoMLX1JaI7EtkdkZ4NvJkJZhiP4Gp1B3ueQ/edit?usp=sharing) - GIT Basics
+
+- [IoT](https://docs.google.com/presentation/d/1Bp-NdA_T6bsS9mtpXbWsEFxp0X2kRLJHVO8ND6C7VLc/edit?usp=sharing) - Introduction to IoT.
 
 - [SQL INJECTION](https://philomath213.github.io/talk/sql-injection/) - Introduction to SQL Injection
 
