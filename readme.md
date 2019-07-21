@@ -25,7 +25,6 @@
 
 
 ## Mini Projects
-- [BackdropLayout](https://github.com/roiacult/BackdropLayout) - Android Library for creating awesome Backdrop View only with xml
 
 - [Messaging](https://github.com/youben11/messaging) - Messaging is a client/server app written in Python2.7 that allows multiple users to communicate over a shared channel.
 
@@ -35,6 +34,8 @@
 
 
 ## Extracurricular Projects
+
+- [BackdropLayout](https://github.com/roiacult/BackdropLayout) - Android Library for creating awesome Backdrop View only with xml
 
 - [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
 
