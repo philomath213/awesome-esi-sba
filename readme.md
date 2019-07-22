@@ -1,3 +1,4 @@
+
 # Awesome ESI-SBA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things and projects made by ESI-SBA students
@@ -33,6 +34,8 @@
 
 
 ## Extracurricular Projects
+
+- [BackdropLayout](https://github.com/roiacult/BackdropLayout) - Android Library for creating awesome Backdrop View only with xml
 
 - [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
 
