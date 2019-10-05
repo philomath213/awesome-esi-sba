@@ -20,9 +20,11 @@
 
 - [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students.
 
-- [OpenClass](https://github.com/youben11/open-class) - Web App that promote information sharing through organized workshops.
+- [Junior Makers Program](https://github.com/ossamaazzaz/JMP) - Network of scientific clubs specialized in the field of Electronics, Robotics, Programming and Computer Science dedicated to the next generation.
 
 - [Malware Revealer](https://github.com/malware-revealer/malware-revealer) - Spot malwares using Machine Learning techniques.
+
+- [OpenClass](https://github.com/youben11/open-class) - Web App that promote information sharing through organized workshops.
 
 
 ## Mini Projects
