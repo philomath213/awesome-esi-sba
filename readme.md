@@ -42,11 +42,11 @@
 
 - [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
 
-- [Pchaty](https://github.com/th3happybit/Pchaty) - A simple chat app using python implementing Event-driven architecture.
-
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
 
 - [Parself](https://github.com/youben11/parself) - A parser for ELF files.
+
+- [Pchaty](https://github.com/th3happybit/Pchaty) - A simple chat app using python implementing Event-driven architecture.
 
 - [Pneumonia Detector](https://github.com/LatrecheYasser/pneumonia-detector) - Detecting Pneumonia on chest x-ray images.
 
