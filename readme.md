@@ -52,6 +52,8 @@
 
 - [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
 
+- [SimpleSearch](https://github.com/youben11/simplesearch) - SimpleSearch lets you index and search your documents. It was designed to manipulate different types of documents transparently.
+
 - [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
 
 ## Presentations
