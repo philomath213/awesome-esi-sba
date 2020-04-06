@@ -42,15 +42,17 @@
 
 - [Chain Reaction](https://github.com/youben11/chain-reaction) - Chain reaction is a deterministic combinatorial game of perfect information for 2 - 8 players.
 
-- [Pchaty](https://github.com/th3happybit/Pchaty) - A simple chat app using python implementing Event-driven architecture.
-
 - [Cryptili](https://github.com/youben11/cryptili) - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
 
 - [Parself](https://github.com/youben11/parself) - A parser for ELF files.
 
+- [Pchaty](https://github.com/th3happybit/Pchaty) - A simple chat app using python implementing Event-driven architecture.
+
 - [Pneumonia Detector](https://github.com/LatrecheYasser/pneumonia-detector) - Detecting Pneumonia on chest x-ray images.
 
 - [Silvio Text Infectction Technic](https://github.com/youben11/silvio-text-infect) - Implementation of Silvio Cesare text infection technic.
+
+- [SimpleSearch](https://github.com/youben11/simplesearch) - SimpleSearch lets you index and search your documents. It was designed to manipulate different types of documents transparently.
 
 - [Youbix](https://github.com/youben11/youbix) - Youbix is a simple kernel developed for learning purposes.
 
