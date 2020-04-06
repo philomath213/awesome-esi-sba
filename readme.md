@@ -69,7 +69,9 @@
 
 ## Others
 
-- [AlphaBit Coding Challenge](https://github.com/philomath213/alphabit-coding-challenge) - AlphaBit Club Programming Contest.
+- [AlphaBit Coding Challenge](https://github.com/AlphaBitClub/alphabit-coding-challenge) - Problems and solutions for AlphaBit Club Programming Contest.
+
+- [AlphaBit Coding Challenge Plateform](https://github.com/AlphaBitClub/alphabit-coding-challenge-platform) - AlphaBit Club Programming Contest Plateform.
 
 
 ## Contribute
