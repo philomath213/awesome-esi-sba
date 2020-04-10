@@ -1,6 +1,6 @@
 
 # Awesome ESI-SBA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
+![Lint Awesome List](https://github.com/philomath213/awesome-esi-sba/workflows/Lint%20Awesome%20List/badge.svg)
 
 > A curated list of awesome things and projects made by ESI-SBA students
 
