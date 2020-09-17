@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Final Year Projects](#final-year-projects)
 - [Multidisciplinary Projects](#multidisciplinary-projects)
 - [Mini Projects](#mini-projects)
 - [Extracurricular Projects](#extracurricular-projects)
