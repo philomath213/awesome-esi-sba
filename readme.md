@@ -13,6 +13,11 @@
 - [Others](#others)
 
 
+
+## Final Year Projects
+- [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++.
+
+
 ## Multidisciplinary Projects
 
 - [7anooTech](https://github.com/th3happybit/7anooTech) - Partial remote selling platform adapted to the Algerian market constraints.
