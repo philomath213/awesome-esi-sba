@@ -16,7 +16,8 @@
 
 
 ## Final Year Projects
-- [NetRevealer](https://github.com/NetRevealer/NetRevealer) - NetRevealer is a machine Learning based network traffic classification application that identify (Youtube - Skype - Twitch - Instagram - Anghami - Google Meet) encrypted traffic flows in real-time.
+
+- [NetRevealer](https://github.com/NetRevealer/NetRevealer) - NetRevealer is a machine Learning based network traffic classification application that identify (YouTube - Skype - Twitch - Instagram - Anghami - Google Meet) encrypted traffic flows in real-time.
 
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++.
 
